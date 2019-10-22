@@ -24,7 +24,7 @@ dependencies:
   - pandas
   - patsy
   - pip
-  - pymc3
+#  - pymc3
   - pydot
   - python-graphviz
   - pytorch
@@ -32,6 +32,6 @@ dependencies:
   - scipy
   - seaborn
   - setuptools
-  - theano
+#  - theano
   - torchvision
   - xlrd
